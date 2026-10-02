@@ -65,7 +65,7 @@ Do not store the key directly in the repository. Set it as an environment variab
 
 ```bash
 OPENROUTER_API_KEY=your_key_here
-
+``` 
 ## Limitations
 
 This project is a prototype using a small synthetic LC dataset.
