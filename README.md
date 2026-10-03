@@ -76,3 +76,15 @@ Important limitations include:
 - API latency
 - structured outputs may be valid in format but still semantically incorrect
 - human review remains important for higher-risk trade-finance decisions
+
+## Run the Demo
+
+Install dependencies:
+
+`pip install -r requirements.txt`
+
+Set the OpenRouter API key as an environment variable.
+
+Then run:
+
+`python app.py`
